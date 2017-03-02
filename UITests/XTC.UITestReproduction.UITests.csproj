@@ -37,12 +37,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\iOS\XTC.UITestReproduction.iOS.csproj">
-      <Project>{1C8A55E7-8BE4-4E6F-970D-4DF0ABF0490A}</Project>
-      <Name>XTC.UITestReproduction.iOS</Name>
-      <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
-      <Private>False</Private>
-    </ProjectReference>
     <ProjectReference Include="..\Droid\XTC.UITestReproduction.Droid.csproj">
       <Project>{1F043138-366F-449E-94AB-18983B31876B}</Project>
       <Name>XTC.UITestReproduction.Droid</Name>
